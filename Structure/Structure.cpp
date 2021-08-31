@@ -2,7 +2,7 @@
 using namespace std;
 struct student
 {
-	int rollno = 10;;
+	int rollno = 20;
 	int marks=95;
 };
 int main()
